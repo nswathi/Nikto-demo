@@ -16,14 +16,15 @@ Help: nikto -H or nikto -Help
 
 
 Demo Part 2:
-Download mutillidae: https://sourceforge.net/projects/mutillidae/
-Unzip folder
-Download xampp: https://www.apachefriends.org/download.html
-Install xampp
-Open application: Go to Manage servers
-Put MySQL and Apache server at run mode
+1. Download mutillidae: https://sourceforge.net/projects/mutillidae/
+2. Unzip folder
+3. Download xampp: https://www.apachefriends.org/download.html
+4. Install xampp
+5. Open application: Go to Manage servers
+6. Put MySQL and Apache server at run mode
+
 
 Open Browser
-http://localhost - It Works!
-Copy the unzip folder of mutillidae into application folder of xampp
-Run - http://localhost/mutillidae/ 
+1. http://localhost - It Works!
+2. Copy the unzip folder of mutillidae into application folder of xampp
+3. Run - http://localhost/mutillidae/ 
