@@ -26,5 +26,5 @@ Demo Part 2:
 
 Open Browser
 1. http://localhost - It Works!
-2. Copy the unzip folder of mutillidae into application folder of xampp
+2. Copy the unzip folder of mutillidae into application folder of xampp>>htdocs
 3. Run - http://localhost/mutillidae/ 
